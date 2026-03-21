@@ -1,6 +1,8 @@
-## Chainflip Broker as a Service
+# Chainflip Broker as a Service
 
 A remote MCP server that enables AI agents to perform cross-chain cryptocurrency swaps through the [Chainflip](https://chainflip.io) decentralized exchange. No API key required to get started.
+
+[![Chainflip Broker as a Service MCP server](https://glama.ai/mcp/servers/CumpsD/broker-as-a-service/badges/card.svg)](https://glama.ai/mcp/servers/CumpsD/broker-as-a-service)
 
 ### Tools
 
