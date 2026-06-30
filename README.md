@@ -21,7 +21,7 @@ A remote MCP server that enables AI agents to perform cross-chain cryptocurrency
 
 ### Supported Assets
 
-Assets are identified as `ticker.network`, for example `btc.btc`, `eth.eth`, `usdc.eth`, `sol.sol`, or `dot.hub`. Call `list_assets` to see the full list of supported assets and their current prices.
+Assets are identified as `ticker.network`, for example `btc.btc`, `eth.eth`, `usdc.eth`, `sol.sol`, or `usdt.tron`. Call `list_assets` to see the full list of supported assets and their current prices.
 
 ### Configuration
 
