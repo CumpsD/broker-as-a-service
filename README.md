@@ -43,6 +43,12 @@ For detailed human-readable documentation, visit [docs.chainflip-broker.io/resou
 
 For agent frameworks that consume `SKILL.md` plugins (OpenClaw, Nous Hermes, Claude Code), this repo ships a ready-to-use skill at [`skills/chainflip-swap/SKILL.md`](skills/chainflip-swap/SKILL.md). It wraps the tools above into a guided swap workflow with natural-language triggers. The skill manifest is [`skills/index.json`](skills/index.json).
 
+The skill is published on [ClawHub](https://clawhub.ai/baas/skills/chainflip). Install it in OpenClaw with:
+
+```bash
+openclaw skills install @baas/chainflip
+```
+
 ### Usage Example
 
 1. Call `list_assets` to see available assets
