@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "name": "chainflip-baas",
+  "description": "Chainflip Broker as a Service agent skill: native cross-chain swaps (BTC, ETH, SOL, DOT, TRX, USDC, USDT, FLIP) with no wrapped tokens and no bridges, via a remote MCP server.",
+  "homepage": "https://chainflip-broker.io",
+  "skills": [
+    {
+      "name": "chainflip-swap",
+      "description": "Execute native cross-chain cryptocurrency swaps via Chainflip Broker as a Service. Quote, start a swap to receive a deposit address, send the source asset, monitor to completion. Triggers on swap, exchange, trade, convert, move, or bridge intent for BTC, ETH, SOL, DOT, TRX, USDC, USDT, or FLIP, and on swap status checks. Uses a deposit-address model, so the agent never signs or approves an on-chain transaction.",
+      "entry_point": "skills/chainflip-swap/SKILL.md"
+    }
+  ]
+}

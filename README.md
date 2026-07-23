@@ -39,6 +39,10 @@ No authentication is required. An optional API key can be provided for partner a
 
 For detailed human-readable documentation, visit [docs.chainflip-broker.io/resources/ai-documentation](https://docs.chainflip-broker.io/resources/ai-documentation/).
 
+### Agent Skill
+
+For agent frameworks that consume `SKILL.md` plugins (OpenClaw, Nous Hermes, Claude Code), this repo ships a ready-to-use skill at [`skills/chainflip-swap/SKILL.md`](skills/chainflip-swap/SKILL.md). It wraps the tools above into a guided swap workflow with natural-language triggers. The skill manifest is [`skills/index.json`](skills/index.json).
+
 ### Usage Example
 
 1. Call `list_assets` to see available assets
