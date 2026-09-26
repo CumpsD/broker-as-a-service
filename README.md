@@ -56,3 +56,7 @@ openclaw skills install @baas/chainflip
 3. Call `start_swap` with the destination and refund addresses to get a deposit address
 4. Send funds to the deposit address
 5. Call `check_status` with the returned swap ID to monitor progress
+
+### Listings
+
+[![Broker As A Service on AI Agents Listing](https://aiagentslisting.com/broker-as-a-service/badge.svg?claim=fd4e97cfee0100d0881d9f1bdb02fffe)](https://aiagentslisting.com/mcp/broker-as-a-service)
