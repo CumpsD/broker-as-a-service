@@ -59,4 +59,6 @@ openclaw skills install @baas/chainflip
 
 ### Listings
 
+[![Chainflip Broker as a Service MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.chainflip-broker/crypto-swap/badges/score.svg)](https://glama.ai/mcp/connectors/io.chainflip-broker/crypto-swap)
+
 [![Broker As A Service on AI Agents Listing](https://aiagentslisting.com/broker-as-a-service/badge.svg?claim=fd4e97cfee0100d0881d9f1bdb02fffe)](https://aiagentslisting.com/mcp/broker-as-a-service)
